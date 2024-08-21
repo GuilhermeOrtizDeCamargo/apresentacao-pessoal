@@ -1,6 +1,6 @@
 <h1>
     <a href="https://www.sptech.school/">
-      <img align="center" width="70px" src="https://media.licdn.com/dms/image/v2/D4D03AQFQj1uQ_htEgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707195653074?e=1729728000&amp;v=beta&amp;t=eAr1k0xFZ7XCVPkddFFFYcjyASP1kEPZ8gPFOfgHBf4" img width="80" alt="{a} logo" class="img-fluid"></a>
+      <img align="center" width="80px" src="https://media.licdn.com/dms/image/v2/D4D03AQFQj1uQ_htEgw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1707195653074?e=1729728000&amp;v=beta&amp;t=eAr1k0xFZ7XCVPkddFFFYcjyASP1kEPZ8gPFOfgHBf4" img width="80" alt="{a} logo" class="img-fluid"></a>
     <span>Apresentação Pessoal</span>
 </h1>
 
