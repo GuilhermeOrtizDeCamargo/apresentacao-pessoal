@@ -15,7 +15,7 @@ Atualmente estou cursando Ciência da Computação na SPTech School e posso dize
 
 ## Faculdade
 - Bacharel em Comunicação Social;
-- Sou formado em Análise e Desenvolvimento de Sistemas;
+- Tecnólogo em Análise e Desenvolvimento de Sistemas;
 - MBA em Big Data;
 - MBA em Data Warehouse;
 - MBA em Business Intelligence;
